@@ -19,25 +19,3 @@ While the depth of convolutional neural networks has attracted substantial atten
 
 
 -----------------------------------------------------------------
-
-### Results:
------------------------------------------------------------------
-
-**First image from Set12-test with noise level=10**
-![First image from Set12-test with noise level=10](http://i.imgur.com/4WkiKXI.png)
-
-**Second image from BSD200-test with noise level=10**
-![Second image from BSD200-test with noise level=10](http://imgur.com/kRH8oFx.png)
-
-**I.Comparing 7x7 filter-size WINs with 13x13 filter-size WINs for noise level=30**
-![1Comparing 7x7 filter-size WINs with 13x13 level=30](http://i.imgur.com/D7OjoKw.png)
-
-As we can see, Increasing filter size can further improve performance.
-
-**II.Comparing 7x7 filter-size WINs with 13x13 filter-size WINs for noise level=30**
-![2Comparing 7x7 filter-size WINs with 13x13 level=30](http://i.imgur.com/p1qPVuI.png)
-
-As we can see, Increasing filter size can further improve performance.
-
-**III.Comparing 7x7 filter-size WINs with 13x13 filter-size WINs for noise level=30**
-![3Comparing 7x7 filter-size WINs with 13x13 level=30](http://i.imgur.com/legwbim.png)
